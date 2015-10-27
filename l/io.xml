@@ -1,9 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name=" Add an IMSP <br/>Address Book">"128
+ 
+ 
+  	129
+ 
+ 
+  	130
+ 
 ‚
 ‚ 	131
  
 ƒ
 ƒ 	132
-  
+ 
+„
+„ 	133
+ 
+…
+… 	134
+ 
+†
+† 	135
+ 
+‡
+‡ 	136
+ 
+ˆ
+ˆ 	137
+ 
+‰
+‰ 	138
+ 
+Š
+Š 	139
+ 
+‹
+‹ 	140
+ 
+Œ
+Œ 	141
+ 
+ 
+  	142
+ 
+ 
+  	143
+ 
+ 
+ 
+144
+ 
  
   	145
  
@@ -50,30 +97,54 @@ trade
   	159
  
 Ÿ
-Ÿ
-„
-„ 	133
- 
-…
-… 	134
- 
-†
-† 	135
- 
-‡
-‡ 	136
- 
-ˆ
-ˆ 	137
- 
-‰
-‰ 	138
- 
-Š
-Š 	139
- 
-‹
-‹ 	140
- 
-Œ
-Œ
+Ÿ"</string>
+
+<!-- what's this? -->
+<!-- Delete IMSP <b>Address Book</b> -->
+<string name=" Delete IMSP <b>Address Book</b>">" Supprimer IMSP &lt;b&gt;carnet d'adresses&lt;/b&gt;"</string>
+<string name="\"%s\" already exists and was not imported.">"« %s » existait déjà et n'a pas été importé."</string>
+<string name="\"%s\" updated, but saving the uploaded file failed: %s">"%s a été mis à jour, mais la sauvegarde du fichier téléchargé a échoué : %s"</string>
+<string name="\"%s\" updated.">"Mise à jour de « %s » effectuée."</string>
+<string name="\"%s\" was not copied because it is a list.">"« %s » n'a pas été copié parce que c'est une liste."</string>
+<string name="\"%s\" was not moved because it is a list.">"« %s » n'a pas été déplacé parce que c'est une liste."</string>
+<string name="\"Firstname Lastname\"  (ie. John Doe)">"« Prénom Nom »  (c. à d.. Michel Tremblay)"</string>
+<string name="\"Lastname, Firstname\" (ie. Doe, John)">"« Nom, Prénom »  (c. à d.. Tremblay, Michel)"</string>
+<string name="%d. %s of %s">"%d. %s de %s"</string>
+<string name="%s added.">"%s ajouté."</string>
+<string name="%s file successfully imported.">"fichier %s importé avec succès."</string>
+<string name="%s to %s of %s">"%s à %s sur %s"</string>
+<string name="%s's Address Book">"Carnet d'adresses de %s"</string>
+<string name="A browser that supports iframes is required">"Un navigateur supportant les cadres (iFrames) est requis"</string>
+<string name="Access denied to %s">"Accès à %s refusé"</string>
+<string name="Add">"Ajouter"</string>
+<string name="Add Contact">"Ajouter un contact"</string>
+<string name="Add address book">"Ajouter un carnet d'adresses"</string>
+<string name="Add file">"Ajouter un fichier"</string>
+<string name="Add to">"Ajouter à"</string>
+<string name="Adding contacts is not available.">"L'ajout de contacts n'est pas disponible."</string>
+<string name="Address Book">"Carnet d'adresses"</string>
+<string name="Address Book List">"Liste des annuaires"</string>
+<string name="Address Book Listing">"Liste des annuaires"</string>
+<string name="Address Books">"Carnets d'adresses"</string>
+<string name="Address book successfully purged.">"Carnet d'adresses nettoyé avec succès."</string>
+<string name="Address books that will not be displayed:">"Carnet d'adresses qui ne seront pas affichés :"</string>
+<string name="Advanced Search">"Recherche avancée"</string>
+<string name="Alias">"Alias"</string>
+<string name="All">"Tout"</string>
+<string name="Already Exists">"Existe déjà"</string>
+<string name="Anniversaries">"Anniversaires"</string>
+<string name="Anniversary">"Anniversaire"</string>
+<string name="Are you sure that you want to delete %s?">"Êtes-vous certain de vouloir supprimer %s ?"</string>
+<string name="Are you sure that you want to delete the selected contacts?">"Êtes-vous certain de vouloir supprimer les contacts sélectionnés ?"</string>
+<string name="Assistant">"Assistant"</string>
+<string name="Basic Search">"Recherche simple"</string>
+<string name="Bind failed: (%s) %s">"Échec du lien (%s): %s"</string>
+<string name="Birthday">"Anniversaire"</string>
+<string name="Birthdays">"Anniversaires"</string>
+<string name="Blank name">"Nom à blanc"</string>
+<string name="Both">"Les deux"</string>
+<string name="Browse">"Parcourir"</string>
+<string name="Business Category">"Catégorie affaire"</string>
+<string name="CSV">"CSV"</string>
+<string name="x"></string>
+</resources>

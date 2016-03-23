@@ -1,1 +1,18 @@
 
+/*Please don't change the name of the application*/
+"app.name" = "List";
+
+/*form_label*/
+"app.login.text" = "";
+"app.login.message.success" = "";
+"app.login.message.error" = "";
+"app.login.password.forget" = "";
+"app.login.password.reset" = "";
+"app.register.text" = "";
+"app.register.message.success" = "";
+"app.register.message.error" = "";
+"app.menu.terms" = "";
+"app.users.active" = "g";
+
+/*form_label*/
+"app.login.pass" = "";

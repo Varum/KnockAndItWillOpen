@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">Rest</string>
-<string name="menu">Best"</string>
+<string name="app_name">"Resto"</string>
+<string name="menu">"Besto"</string>
 </resources>

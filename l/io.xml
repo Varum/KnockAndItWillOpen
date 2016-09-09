@@ -12,11 +12,11 @@
 <string name="Progress">"Progress"</string>
 <plurals name="Assigned file">
 <item quantity="one">"Assigned file"</item>
-<item quantity="other">"Assigned files"</item>
+<item quantity="other">"%d Assigned files"</item>
 </plurals>
 
-<!-- random context over here just for test -->
-<!-- Fuzzy -->
+<!-- random context over here just for test 
+ Fuzzy -->
 <plurals name="Action">
 <item quantity="one">"Action"</item>
 <item quantity="other">"Actions"</item>

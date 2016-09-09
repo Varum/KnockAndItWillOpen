@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"Resto"</string>
-<string name="menu">"Besto"</string>
+
+<!-- Fuzzy -->
+<string name="Change your POEditor API Key">"Change your POEditor API Key"</string>
+<string name="POEditor API KEY">"POEditor API KEY"</string>
+<string name="Change API Key">"Change API Key"</string>
+<string name="Reset plugin">"Reset plugin"</string>
+<string name="Refresh online projects list">"Refresh online projects list"</string>
+<string name="Project">"Project"</string>
+<string name="Language">"Language"</string>
+<string name="Progress">"Progress"</string>
+<plurals name="Assigned file">
+<item quantity="one">"Assigned file"</item>
+<item quantity="other">"Assigned files"</item>
+</plurals>
+
+<!-- random context over here just for test -->
+<!-- Fuzzy -->
+<plurals name="Action">
+<item quantity="one">"Action"</item>
+<item quantity="other">"Actions"</item>
+</plurals>
+<string name="Assign file">"Assign file"</string>
+<string name="Import">"Import"</string>
+<string name="Export">"Export"</string>
+<string name="Sync">"Sync"</string>
+<string name="Unassign file">"Unassign file"</string>
+<string name="Import all">"Import all"</string>
+<string name="Export all">"Export all"</string>
+<string name="Rescan for language files">"Rescan for language files"</string>
+<string name="Location">"Location"</string>
+<string name="File">"File"</string>
+<string name="Last changed">"Last changed"</string>
+<string name="No language files found yet. Scan now">"No language files found yet. Scan now"</string>
+<string name="Assign a local file to a POEditor project language">"Assign a local file to a POEditor project language"</string>
+<string name="Select">"Select"</string>
+<string name="Add new">"Add new"</string>
+<string name="Add location manually">"Add location manually"</string>
+<string name="Example">"Example"</string>
+<string name="Are you sure you want to reset the plugin?">"Are you sure you want to reset the plugin?"</string>
+<string name="This will delete all your local file assignments and it will detach your Wordpress installation from you account on %s">"This will delete all your local file assignments and it will detach your Wordpress installation from you account on %s"</string>
+<string name="Cancel">"Cancel"</string>
+<string name="Reset">"Reset"</string>
+<string name="No API key set">"No API key set"</string>
+<string name="The language file %1$s for %2$s was successfully synced">"The language file %1$s for %2$s was successfully synced"</string>
+<string name="The language file %1$s for %2$s was successfully uploaded to POEditor.com">"The language file %1$s for %2$s was successfully uploaded to POEditor.com"</string>
+<string name="There was a problem with the request for %1$s: %2$s">"There was a problem with the request for %1$s: %2$s"</string>
+<string name="The language file %1$s for %2$s was successfully imported from POEditor.com">"The language file %1$s for %2$s was successfully imported from POEditor.com"</string>
+<string name="The %s folder is not writable. Please make it writable and try again">"The %s folder is not writable. Please make it writable and try again"</string>
+<string name="The %s file cannot be overwritten. Please make it writable and try again">"The %s file cannot be overwritten. Please make it writable and try again"</string>
+<string name="There was a problem importing the language file from POEditor.com">"There was a problem importing the language file from POEditor.com"</string>
+<string name="Loading">"Loading"</string>
+<string name="Retrieving online projects from POEditor.com. Please wait">"Retrieving online projects from POEditor.com. Please wait"</string>
+<string name="Add language to %s">"Add language to %s"</string>
+<string name="Add language">"Add language"</string>
+<string name="Sync all">"Sync all"</string>
+<string name="This folder is not writable">"This folder is not writable"</string>
+<string name="your account">"your account"</string>
+<string name="Set API Key">"Set API Key"</string>
+<string name="Scanning for language files. Please wait">"Scanning for language files. Please wait"</string>
+<string name="POEditor translations">"POEditor translations"</string>
+<string name="Create project">"Create project"</string>
+<string name="Local language files">"Local language files"</string>
+<string name="Found no projects in your POEditor.com account.">"There were no projects found in your POEditor.com account."</string>
+<string name="The API Key was succesfully changed">"The API Key was succesfully changed"</string>
+<string name="The API Key you set is invalid. Please try again">"The API Key you set is invalid. Please try again"</string>
+<string name="The language was successfully added">"The language was successfully added"</string>
+<string name="Please set the name of the project">"Please set the name of the project"</string>
+<string name="The file could not be created. Please make sure that the folder is writable and your host configuration allows you to write files">"The file could not be created. Please make sure that the folder is writable and your host configuration allows you to write files"</string>
+<string name="The plugin has been reset successfully">"The plugin has been reset successfully"</string>
+<string name="The folder or file is not writable (so we are not be able to update the files with the information from poeditor.com)">"The folder or file is not writable (so we are not be able to update the files with the information from poeditor.com)"</string>
+<string name="Search for location">"Search for location"</string>
+<string name="Search for file name">"Search for file name"</string>
 </resources>

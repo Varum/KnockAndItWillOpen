@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-<!-- Fuzzy -->
-<string name="The API Key was succesfully changed.">"test"</string>
-
-<!-- Fuzzy -->
-<string name="The API Key you set is invalid. Please try again">"test 2"</string>
-<string name="aaa"></string>
-<string name="english"></string>
-<string name="french"></string>
-<string name="german"></string>
+<string name="One term"></string>
+<string name="Two terms"></string>
+<string name="Three terms"></string>
 </resources>

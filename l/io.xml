@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="One term"></string>
-<string name="Two terms"></string>
-<string name="Three terms"></string>
+
+    <!-- Comment1 -->
+    <!-- context1 -->
+    <string name="term1"></string>
+
+    <!-- context1 -->
+    <string name="term2"></string>
+
+    <!-- context2 -->
+    <string name="term1"></string>
+
+    <!-- context2 -->
+    <string name="term3"></string>
+    <string name="Actions"></string>
+
+    <!-- poeditor -->
+    <string name="Add language"></string>
+
+    <!-- poeditor -->
+    <string name="Add language to %s"></string>
+
+    <!-- poeditor -->
+    <string name="Add location manually"></string>
+
+    <!-- ct -->
+    <plurals name="Newest term">
+        <item quantity="zero"></item>
+        <item quantity="one"></item>
+        <item quantity="two"></item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+        <item quantity="other"></item>
+    </plurals>
+    <plurals name="New term1">
+        <item quantity="zero"></item>
+        <item quantity="one"></item>
+        <item quantity="two"></item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+        <item quantity="other"></item>
+    </plurals>
 </resources>

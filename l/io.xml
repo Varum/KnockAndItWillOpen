@@ -3,42 +3,35 @@
 
     <!-- Comment1 -->
     <!-- context1 -->
-    <string name="term1">random &lt;b>old&lt;/b></string>
+    <string name="term1">"Target1"</string>
 
     <!-- context1 -->
-    <string name="term2"></string>
+    <string name="term2">"Target2 %s"</string>
 
     <!-- context2 -->
     <string name="term1"></string>
 
     <!-- context2 -->
-    <string name="term3"></string>
+    <string name="term3">"Target3"</string>
     <string name="Actions"></string>
 
     <!-- poeditor -->
-    <string name="Add language"></string>
+    <string name="Add language">"Add language up"</string>
 
     <!-- poeditor -->
-    <string name="Add language to %s"></string>
+    <string name="Add language to %s">"rand3om"</string>
 
     <!-- poeditor -->
-    <string name="Add location manually"></string>
+    <string name="Add location manually">"wait what"</string>
 
     <!-- ct -->
+    <!-- Fuzzy -->
     <plurals name="Newest term">
-        <item quantity="zero"></item>
-        <item quantity="one"></item>
-        <item quantity="two"></item>
-        <item quantity="few"></item>
-        <item quantity="many"></item>
-        <item quantity="other"></item>
+        <item quantity="one">"make me fuzzy"</item>
+        <item quantity="other">"what's happening? add me without overwrite"</item>
     </plurals>
     <plurals name="New term1">
-        <item quantity="zero"></item>
         <item quantity="one"></item>
-        <item quantity="two"></item>
-        <item quantity="few"></item>
-        <item quantity="many"></item>
         <item quantity="other"></item>
     </plurals>
 </resources>

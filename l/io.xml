@@ -3,7 +3,7 @@
 
     <!-- Comment1 -->
     <!-- context1 -->
-    <string name="term1"></string>
+    <string name="term1">"random &lt;b&gt;old&lt;/b&gt;"</string>
 
     <!-- context1 -->
     <string name="term2"></string>
